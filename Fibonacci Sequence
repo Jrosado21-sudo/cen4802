@@ -1,7 +1,15 @@
 package fibonacci;
-
+/**
+ * 
+ * @author Jose
+ * @version 5/22/22
+ *
+ */
 public class fibonacci {
-
+/**
+ * 
+ * @param args nth number for fibonacci 
+ */
 	public static void main(String[] args) {
 		
 		//This is the fibonacci nth number outcome 
